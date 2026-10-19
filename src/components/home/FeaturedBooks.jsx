@@ -16,7 +16,6 @@ import FreudPorarBhumika from "../../assets/books/FreudPorarBhumika.jpg";
 import SattyaSaddamHossainoSerajuddaula from "../../assets/books/SattyaSaddamHossainoSerajuddaula.jpg";
 import BehatBiplob1971 from "../../assets/books/BehatBiplob1971.jpg";
 import AmiTumiShey from "../../assets/books/AmiTumiShey.jpg";
-import SilenceOncrimesOfpower from "../../assets/books/SilenceOncrimesOfpower.jpg";
 import Artha1shongkkha1 from "../../assets/books/Artha1shongkkha1.jpg";
 import Artha2 from "../../assets/books/Artha2.1.jpg";
 import Artha3 from "../../assets/books/Artha3.jpg";
