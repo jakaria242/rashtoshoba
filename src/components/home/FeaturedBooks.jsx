@@ -76,26 +76,21 @@ const books = [
     slug: "ami-tumi-shey",
     image: AmiTumiShey,
   },
+
   {
     id: 10,
-    title: "Silence on Crimes of Power",
-    slug: "silence-on-crimes-of-power",
-    image: SilenceOncrimesOfpower,
-  },
-  {
-    id: 11,
     title: "অর্থ ১ সংখ্যা ১",
     slug: "artha-1-shongkkha-1",
     image: Artha1shongkkha1,
   },
   {
-    id: 12,
+    id: 11,
     title: "অর্থ ২ সংখ্যা ১",
     slug: "artha-2-shongkkha-1",
     image: Artha2,
   },
   {
-    id: 13,
+    id: 12,
     title: "অর্থ ৩",
     slug: "artha-3",
     image: Artha3,
